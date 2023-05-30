@@ -9,7 +9,7 @@ namespace likkleMan
 		    Console.Write("Hello! Welcome to Pop Sensation Simulator! See if you have what it takes to be a Real Popstar! (Press ENTER to Continue...)");
 		    Console.ReadLine();
 
-		    //Form?
+		    //Form??????
 		    int age;
 		    string legalName;
 		    bool recordDealTaken;
@@ -21,12 +21,12 @@ namespace likkleMan
 
 		    Console.WriteLine($"This hereby states {legalName} is an artist and brand under the management of VM Records and distribution under SwingSound....");
 		    Console.WriteLine("...including but not limited to 6 releases, 4 merchindising oppurtunies and 2 extended tours...");
-		    Console.WriteLine($"..and will end when the artist is {age + length}."):
+		    Console.WriteLine($"..and will end when the artist is {age + length}.");
 
 		    Console.Write("Will you sign?");
 		    contractSign = Console.ReadLine;
 		
-		    //if
+		    //if???????
 
 		    Console.Write("Hello New Artist! What are you choosing for your million-dollar stage name?");
 		    artistName = Console.ReadLine();
